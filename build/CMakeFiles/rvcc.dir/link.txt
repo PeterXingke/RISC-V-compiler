@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/rvcc.dir/main2.c.o  -o rvcc 

@@ -1,0 +1,3 @@
+/home/xingke/test/build/CMakeFiles/rebuild_cache.dir
+/home/xingke/test/build/CMakeFiles/edit_cache.dir
+/home/xingke/test/build/CMakeFiles/rvcc.dir

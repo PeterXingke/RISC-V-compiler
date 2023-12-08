@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xingke/test/build",
+  "command": "/usr/bin/clang   -g   -o CMakeFiles/rvcc.dir/main2.c.o   -c /home/xingke/test/main2.c",
+  "file": "/home/xingke/test/main2.c"
+}
+]
